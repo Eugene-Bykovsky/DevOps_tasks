@@ -11,3 +11,5 @@ pymongo==4.5.0
 pytz==2023.3.post1
 six==1.16.0
 Werkzeug==3.0.0
+ruff==0.0.285
+black==23.7.0
